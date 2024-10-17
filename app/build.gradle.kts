@@ -37,6 +37,10 @@ android {
 
 dependencies {
 
+    implementation ("androidx.appcompat:appcompat:1.3.0-beta01")
+
+    implementation ("androidx.cardview:cardview:1.0.0")
+
     implementation("com.squareup.picasso:picasso:2.8")
 
     implementation("de.hdodenhof:circleimageview:3.1.0")
